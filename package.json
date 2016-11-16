@@ -48,7 +48,7 @@
         "mocha" : "3.1.2",
         "should": "11.1.1",
         "supertest": "2.0.1",
-        "recursive-fs": "*"
+        "recursive-fs": ">=1.0.0"
     },
     "main": "./app",
     "bin": {
