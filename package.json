@@ -37,7 +37,7 @@
         "pwd"              : "1.1.0",
         "commander"        : "2.9.0",
         "colors"           : "1.1.2",
-        "slugify"          : "1.0.2",
+        "slugify"          : "1.1.0",
         "sr-pagination"    : "1.0.1",
         "deep-copy"        : "1.1.2",
         "xsql"             : "1.0.1",
