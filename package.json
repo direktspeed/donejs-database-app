@@ -27,7 +27,7 @@
         "cookie-parser"    : "1.4.3",
         "express-session"  : "1.14.2",
         "csurf"            : "1.9.0",
-        "method-override"  : "2.3.6",
+        "method-override"  : "2.3.8",
         "serve-static"     : "1.11.1",
         "consolidate"      : "0.14.2",
         "hogan.js"         : "3.0.2",
