@@ -33,7 +33,7 @@
         "hogan.js"         : "3.0.2",
         "mysql"            : "2.12.0",
         "mysql-validator"  : "0.1.6",
-        "async"            : "2.1.2",
+        "async"            : "2.3.0",
         "pwd"              : "1.1.0",
         "commander"        : "2.9.0",
         "colors"           : "1.1.2",
