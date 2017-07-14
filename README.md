@@ -3,6 +3,8 @@
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/donejs-database-app.svg)](https://greenkeeper.io/)
+
 [![img-npm-install]][url-npm]
 
 [![img-npm-version]][url-npm]
